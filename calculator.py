@@ -12,4 +12,4 @@ def substract(a, b):
 
 
 def multiply(a, b):
-    pass
+    return a * b
