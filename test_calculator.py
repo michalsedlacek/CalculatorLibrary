@@ -8,5 +8,3 @@ class TestCalculator(unittest.TestCase):
 
     def test_substraction(self):
         self.assertEqual(3, calculator.substract(5, 2))
-
-
